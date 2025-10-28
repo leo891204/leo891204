@@ -1,8 +1,18 @@
 <h1 align="center">Hello. I'm YongTae Kim</h1>
 
+![Static Badge](https://img.shields.io/badge/HYU_ERICA-ICT_23-blue) 졸업하고싶다..
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dydxo5792)](https://solved.ac/dydxo5792/)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=dydxo5792&theme=warm)
 
+<div>
+  <h2>Skills</h2>
+  <h4>Platforms & Languages</h4>
+
+  <h4>Tools</h4>
+
+  <h2>Contacts</h2>
+</div>
 
 
 <!--
