@@ -2,12 +2,13 @@
   <h1>Hello, I'm YongTae Kim</h1>
   <p>Hanyang University Erica College of Computing. I want to graduate</p>
 </div>
-<p align="center">
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dydxo5792)](https://solved.ac/dydxo5792/)
-</p>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dydxo5792)](https://solved.ac/dydxo5792/)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=dydxo5792&theme=dark)
+<p align="center">
+  <a href="https://solved.ac/dydxo5792/">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dydxo5792" alt="Solved.ac Profile">
+  </a>
+  <img src="http://mazandi.herokuapp.com/api?handle=dydxo5792&theme=dark" alt="mazandi profile">
+</p>
 
 
 <!--
