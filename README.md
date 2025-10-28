@@ -7,7 +7,7 @@
   <a href="https://solved.ac/dydxo5792/">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dydxo5792" alt="Solved.ac Profile">
   </a>
-  <img src="http://mazandi.herokuapp.com/api?handle=dydxo5792&theme=dark" alt="mazandi profile">
+  <img src="http://mazandi.herokuapp.com/api?handle=dydxo5792&theme=cold" alt="mazandi profile">
 </p>
 
 
