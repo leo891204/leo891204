@@ -1,5 +1,7 @@
-## Hi there 👋
+<center><h1>Hello. I'm YongTae Kim</h1></center>
 
+![Static Badge](https://img.shields.io/badge/HYU_ERICA-ICT_23-blue?style=flat)
+- 졸업하고싶다
 <!--
 **leo891204/leo891204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
