@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hello, I'm YongTae Kim</h1>
-  <p>Hanyang University Erica ICT. I want to graduate</p>
+  <p>Hanyang University Erica College of Computing. I want to graduate</p>
 </div>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dydxo5792)](https://solved.ac/dydxo5792/)
